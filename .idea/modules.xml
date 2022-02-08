@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GradePass/GradePass.iml" filepath="$PROJECT_DIR$/GradePass/GradePass.iml" />
       <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserLogin/UserLogin.iml" filepath="$PROJECT_DIR$/UserLogin/UserLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weather/Weather.iml" filepath="$PROJECT_DIR$/Weather/Weather.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodluyoruz-java-Projects.iml" filepath="$PROJECT_DIR$/.idea/kodluyoruz-java-Projects.iml" />
     </modules>
   </component>
