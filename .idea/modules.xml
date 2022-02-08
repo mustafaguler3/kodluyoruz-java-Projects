@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FindZodiacSign/FindZodiacSign.iml" filepath="$PROJECT_DIR$/FindZodiacSign/FindZodiacSign.iml" />
       <module fileurl="file://$PROJECT_DIR$/GradePass/GradePass.iml" filepath="$PROJECT_DIR$/GradePass/GradePass.iml" />
       <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberSort/NumberSort.iml" filepath="$PROJECT_DIR$/NumberSort/NumberSort.iml" />
